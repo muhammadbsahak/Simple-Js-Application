@@ -7,3 +7,4 @@
 5. Shopping List
 6. Random Name Generator
 7. Mini Calculator
+8. Code Cracking Game
